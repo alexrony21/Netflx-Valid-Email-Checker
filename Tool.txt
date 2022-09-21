@@ -1,0 +1,4 @@
+Netflix Valid Email Checker
+it will check your email list from a file.txt which is associated with netflix and which is not . This tools is required good socks5 or socks4 or http proxy.
+if you wanna buy this tool contact me via Telegram
+Telegram : @alexrony21
